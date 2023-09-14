@@ -109,4 +109,8 @@
         
     -   **Correct Answers**: Product Owner, Scrum Team, Scrum Master
 
+*Preview*
+
+![](https://github.com/projectfinalaudio/SCRUM/blob/main/screenshot.png?raw=true)
+
     
